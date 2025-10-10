@@ -50,13 +50,12 @@ Evidence-based health insights dashboard featuring:
 ## How to Use These Figures
 
 ### For Personal Tracking
-- Print the Health Coach Dashboard and post it where you'll see it daily
-- Review weekly to track progress toward your 3 health goals
+- Review weekly to track progress toward health goals
 - Use the 12-week dashboard to identify trends over time
+- Track progress against population health benchmarks for demographic characteristics
 
 ### For Healthcare Professionals
 - Share the Domain Expert Health Metrics dashboard
-- High-resolution (300 DPI) suitable for medical records
 - Evidence-based insights with correlation coefficients
 
 
@@ -92,8 +91,6 @@ Based on [Google Research's PHA](https://research.google/blog/the-anatomy-of-a-p
 - **Script:** `complete_pha_analysis_fixed.py`
 - **Python Version:** 3.x
 - **Key Libraries:** pandas, numpy, matplotlib, seaborn, scipy
-- **Figure Format:** PNG (lossless compression)
-- **Color Scheme:** Professional health & wellness palette
 
 ---
 
